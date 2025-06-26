@@ -14,12 +14,6 @@ A Python-based GUI application that detects vehicle number plates from images us
 
 ---
 
-## 📷 Demo
-
-https://github.com/your-username/number-plate-detector/assets/demo.gif  
-*(Include a demo gif or screenshot if possible)*
-
----
 
 ## 🛠️ Technologies Used
 
